@@ -9,7 +9,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const DATA = path.join(__dirname, '..', 'data')
 
 const app = express()
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 3333
 
 app.use(cors())
 app.use(compression())
