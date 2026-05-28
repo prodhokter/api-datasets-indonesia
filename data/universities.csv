@@ -1,0 +1,144 @@
+﻿﻿id;name;code;city;region;type;logo_url;total_majors;total_quota;total_applicants
+0de6036d-9c2a-4549-bdd7-1b47eef45441;Universitas Bangka Belitung;UBB;Kab. Bangka;Bangka Belitung;Negeri;;27;1220;3623
+eb2c9893-8959-48f9-bedc-89cd172a9756;Universitas Borneo Tarakan;UBT;Kota Tarakan;Kalimantan Utara;Negeri;;25;1027;3453
+74bbf7d2-d70b-4935-8354-16c7ec749fba;Universitas Brawijaya;UB;Kota Malang;Jawa Timur;Negeri;;85;5715;78802
+77246af1-b4cc-4cf6-bae8-666d3c785de6;Universitas Cenderawasih;UNCEN;Kota Jayapura;Papua;Negeri;;52;2351;1570
+6b65ba7f-a003-4d67-806a-78b3fee7444d;Universitas Diponegoro;UNDIP;Kota Semarang;Jawa Tengah;Negeri;;68;4575;85734
+0155da97-014f-4d18-ac32-5d1ea70577a5;Universitas Halu Oleo;UHO;Kota Kendari;Sulawesi Tenggara;Negeri;;82;3582;18605
+29d22c27-e6a0-4aa6-9ded-a2ba3501bb35;Universitas Hasanuddin;UNHAS;Kota Makassar;Sulawesi Selatan;Negeri;;84;6194;44202
+006077d9-df05-486d-a020-3192db4967f9;Universitas Indonesia;UI;Kota Depok;Jawa Barat;Negeri;;79;3247;102197
+e8f4ea65-af71-43d5-bf9e-dce53cf0e787;Universitas Jambi;UNJA;Kab. Muaro Jambi;Jambi;Negeri;;66;3650;20268
+60aa6f54-8883-468e-9529-3bc0f0403bec;Universitas Jenderal Soedirman;UNSOED;Kab. Banyumas;Jawa Tengah;Negeri;;56;3897;47035
+2b27f17b-30b1-40be-8890-bbd25c44bfab;Universitas Khairun;UNKHAIR;Kota Ternate;Maluku Utara;Negeri;;40;1712;2052
+7e42b9e1-14ff-4b4d-81fc-cbb9a9db11d6;Universitas Lampung;UNILA;Kota Bandar Lampung;Lampung;Negeri;;80;5305;37619
+28faf3c4-921b-4f44-bc48-fddbaed953b2;Universitas Malikussaleh;UNIMAL;Kab. Aceh Utara;Aceh;Negeri;;34;2876;6834
+4be75750-e897-4da0-8a56-b526e304d5f8;Universitas Maritim Raja Ali Haji;UMRAH;Kota Tanjungpinang;Kepulauan Riau;Negeri;;26;1414;2040
+fbb95d31-d715-45f4-a210-b4c153c1ce71;Universitas Mataram;UNRAM;Kota Mataram;Nusa Tenggara Barat;Negeri;;44;3358;23530
+fef5a489-4380-49d0-be56-62a39cba4f31;Universitas Mulawarman;UNMUL;Kota Samarinda;Kalimantan Timur;Negeri;;67;2850;19681
+2f245c12-0734-4433-b93b-60109e006473;Universitas Negeri Gorontalo;UNG;Kota Gorontalo;Gorontalo;Negeri;;64;3216;12451
+63f1e8bf-fa4c-482b-9d6a-3672e866557f;Universitas Negeri Jakarta;UNJ;Kota Jakarta Timur;DKI Jakarta;Negeri;;77;2895;60278
+be840a8a-d24d-4a62-81c6-608f829f91bc;Universitas Negeri Makassar;UNM;Kota Makassar;Sulawesi Selatan;Negeri;;93;5107;30406
+2e1d34cc-a328-402c-b961-35fdadfb031b;Universitas Negeri Manado;UNIMA;Kab. Minahasa;Sulawesi Utara;Negeri;;53;1558;1650
+832fdd48-5393-40ca-b5b2-1fbc9c51c942;Universitas Negeri Medan;UNIMED;Kab. Deli Serdang;Sumatera Utara;Negeri;;57;5862;22962
+35eb4371-9bda-4324-a479-50023a845116;Universitas Negeri Padang;UNP;Kota Padang;Sumatera Barat;Negeri;;100;5011;52433
+b443db68-461d-4d48-912b-dd8f211b2f6d;Universitas Negeri Semarang;UNNES;Kota Semarang;Jawa Tengah;Negeri;;76;3557;43086
+0fa739e4-1302-4e1a-ba2e-7e6826361fff;Universitas Negeri Yogyakarta;UNY;Kab. Sleman;D.I. Yogyakarta;Negeri;;81;2509;56847
+9319a77f-b72c-417a-9e90-bc7b4fb2d445;Universitas Nusa Cendana;UNDANA;Kota Kupang;Nusa Tenggara Timur;Negeri;;49;3043;12452
+3aeafa54-1501-4d64-9e41-e970ecaddcf3;Universitas Padjajaran;UNPAD;Kab. Sumedang;Jawa Barat;Negeri;;72;2970;76071
+16210267-51cf-4e8f-9890-b5158833cb7c;Universitas Papua;UNIPA;Kab. Manokwari;Papua Barat;Negeri;;49;2128;410
+ac9d8aab-afb4-4b6a-aec8-29f9d75dff71;Universitas Pattimura;UNPATTI;Kota Ambon;Maluku;Negeri;;76;2690;3452
+b3da27eb-322a-4b2a-b2a4-956046d15f1e;Universitas Pendidikan Ganesha;UNDIKSHA;Kab. Buleleng;Bali;Negeri;;52;3105;6086
+e90395b1-b32c-4237-ac99-9b4d630f323e;Universitas Pendidikan Indonesia;UPI;Kota Bandung;Jawa Barat;Negeri;;106;5441;55801
+4ed900bb-39d5-4373-98c7-b712af67ecd0;Universitas Riau;UNRI;Kota Pekanbaru;Riau;Negeri;;65;3204;38407
+51451f59-ad00-43eb-8f7b-78399c50ace5;Universitas Samudra;UNSAM;Kota Langsa;Aceh;Negeri;;29;1128;2198
+44056e9f-23f8-4a57-9e49-317b3d51d174;Universitas Sebelas Maret;UNS;Kota Surakarta;Jawa Tengah;Negeri;;97;3536;90322
+2cbd3b8e-8a93-4a9b-9b0e-3e24826d792f;Universitas Sembilan Belas November Kolaka;USN;Kab. Kolaka;Sulawesi Tenggara;Negeri;;30;1061;1067
+ac9cb427-c810-4e33-bafa-1e84d28b3e2e;Universitas Singaperbangsa Karawang;UNSIKA;Kab. Karawang;Jawa Barat;Negeri;;29;1628;12671
+cbda905e-ca46-4b50-87b0-b0575db1f2e1;Universitas Sulawesi Barat;UNSULBAR;Kab. Majene;Sulawesi Barat;Negeri;;37;1718;3506
+9ff84700-edce-4793-b72e-54b3381a8411;Politeknik Negeri Ketapang;POLITAP;Kab. Ketapang;Kalimantan Barat;Negeri;;9;0;362
+faa1674e-5a53-42a3-a792-dfabdadf72cb;UIN Mataram;UIN MATARAM;Kota Mataram;Nusa Tenggara Barat;Negeri;;3;76;106
+4566d376-eb9a-42ed-936a-3848f3415d4e;UIN Profesor Kiai Haji Saifuddin Zuhri Purwokerto;UIN SAIZU;Kab. Banyumas;Jawa Tengah;Negeri;;4;184;172
+a3dfd988-f335-41dd-ac12-8300e3549df6;UIN Raden Mas Said Surakarta;UIN RM SAID;Kab. Sukoharjo;Jawa Tengah;Negeri;;4;0;259
+3d25a8a8-515b-465e-89e7-702f537c9215;UIN Salatiga;UIN SALATIGA;Kota Salatiga;Jawa Tengah;Negeri;;4;148;218
+603a8aeb-ad2a-4fa6-877e-21805a500c92;UIN Sjech M. Djamil Djambek Bukittinggi;UIN BUKITTINGGI;Kab. Agam;Sumatera Barat;Negeri;;4;0;93
+56ec4ac5-1c32-4230-bc1b-652080434ae3;UIN Sumatera Utara;UIN SU;Kab. Deli Serdang;Sumatera Utara;Negeri;;11;1041;1986
+c5f24e23-f16b-4527-8f1a-46ddc58b573d;UIN Sunan Gunung Djati;UIN SGD;Kota Bandung;Jawa Barat;Negeri;;16;986;6153
+21ae9f53-3bb4-45c7-a309-58d943c9221a;UIN Sunan Kalijaga;UIN SUKA;Kab. Sleman;D.I. Yogyakarta;Negeri;;19;1106;3681
+3e67193b-65aa-4a02-ab35-b1039b2fdadf;UIN Syekh Ali Hasan Ahmad Addary Padangsidimpuan;UIN SYAHADA;Kota Padangsidimpuan;Sumatera Utara;Negeri;;3;0;0
+f406fca1-72a5-487a-bfa1-729fc9e7e769;Universitas Siliwangi;UNSIL;Kota Tasikmalaya;Jawa Barat;Negeri;;27;2765;14177
+15a3ef2d-9d2b-4f25-a79d-57db10db2bbc;UIN Raden Fatah;UIN RF;Kota Palembang;Sumatera Selatan;Negeri;;9;780;629
+bac69af4-9166-4e70-b2f4-35d8045543a7;UIN Sultan Maulana Hasanuddin Banten;UIN SMH;Kota Serang;Banten;Negeri;;5;106;213
+91eac62d-1944-4395-898c-0ae1c9850f97;UIN Sultan Syarif Kasim;UIN SUSKA;Kota Pekalongan;Riau;Negeri;;19;1539;2323
+f8943203-c4c1-4484-9036-07e1a84776af;UIN Walisongo;UIN WALISONGO;Kota Semarang;Jawa Tengah;Negeri;;12;640;1349
+6c1a6082-4db6-40ea-8b17-3b1bb24780f2;Institut Teknologi BJ. Habibie;ITBH;Kota Parepare;Sulawesi Selatan;Negeri;;13;455;353
+822a4c27-6287-45c2-9e81-79aeaa1da036;Institut Teknologi Sepuluh Nopember;ITS;Kota Surabaya;Jawa Timur;Negeri;;56;2357;29780
+65192cbd-6972-4ab5-8a62-eae42d683a9c;Institut Teknologi Sumatera;ITERA;Kab. Lampung Selatan;Lampung;Negeri;;41;3414;10677
+87a69633-cec4-4d67-afd2-3e7ff4d79f2a;ISBI Aceh;ISBI ACEH;Kab. Aceh Besar;Aceh;Negeri;;9;208;52
+28c3854a-ed2f-48a9-bddd-10dfd9627439;ISBI Bandung;ISBI BANDUNG;Kota Bandung;Jawa Barat;Negeri;;13;312;1271
+a34352bb-4453-45e1-bbfd-c28c064c4f43;ISBI Tanah Papua;ISBI TP;Kota Jayapura;Papua;Negeri;;5;0;0
+f483f81c-4e46-4d68-8cd2-b12a87ebc71c;ISI Denpasar;ISI DENPASAR;Kota Denpasar;Bali;Negeri;;15;500;709
+f1985b3d-cf56-45e8-b69e-a72c80f6f4a8;ISI Surakarta;ISI SURAKARTA;Kota Surakarta;Jawa Tengah;Negeri;;20;574;1830
+ceaf4fbd-76cd-4e40-afa0-293e9b9993e8;ISI Yogyakarta;ISI YOGYAKARTA;Kab. Bantul;D.I. Yogyakarta;Negeri;;24;742;5236
+2983e0ec-44af-4311-b677-e3599bfb7211;Politeknik Elektronika Negeri Surabaya;PENS;Kota Surabaya;Jawa Timur;Negeri;;20;684;9324
+d78b375d-3c41-4055-8185-07cf448e63a8;Politeknik Manufaktur Bandung;POLMAN;Kota Bandung;Jawa Barat;Negeri;;14;292;3203
+5b6c7c21-606f-41d8-83d7-e414ccfddedf;Politeknik Negeri Ambon;POLNAM;Kota Ambon;Maluku;Negeri;;14;528;592
+15667330-3c4f-44f7-abd5-5b1f3437a59f;Politeknik Negeri Bali;PNB;Kab. Badung;Bali;Negeri;;28;1519;4539
+71db5691-e701-491e-944a-30409dcbd0ed;Politeknik Negeri Balikpapan;POLTEKBA;Kota Balikpapan;Kalimantan Timur;Negeri;;10;460;1521
+60552076-6816-4993-8626-9c648906760e;Politeknik Negeri Bandung;POLBAN;Kab. Bandung Barat;Jawa Barat;Negeri;;37;1445;41925
+8d3c9174-6790-4ac8-a78c-4210477fb3cc;Politeknik Negeri Banyuwangi;POLIWANGI;Kab. Banyuwangi;Jawa Timur;Negeri;;18;600;1194
+d5a0aae3-8cd4-4013-a3cf-48fa8239acdb;Politeknik Negeri Batam;POLIBATAM;Kota Batam;Kepulauan Riau;Negeri;;22;830;5132
+3bfe56e5-4531-4b8d-b605-f381dac2ec76;Politeknik Negeri Bengkalis;POLBENG;Kab. Bengkalis;Riau;Negeri;;18;600;1017
+4487f252-ac27-4de7-8079-0f9aafc4e6fc;Politeknik Negeri Cilacap;PNC;Kab. Cilacap;Jawa Tengah;Negeri;;13;465;1553
+b7eed0d1-a7c9-4204-a9e2-f483a7d16bf1;Politeknik Negeri Fakfak;POLINEF;Kab. Fakfak;Papua Barat;Negeri;;8;236;42
+4d31221a-9e62-47fc-ade2-e7b561308a6e;Politeknik Negeri Jakarta;PNJ;Kota Depok;Jawa Barat;Negeri;;35;1315;28993
+65bd0424-afc2-46e3-a45b-6da0dc7ab372;Politeknik Negeri Jember;POLIJE;Kab. Jember;Jawa Timur;Negeri;;38;1690;7084
+2d2901da-346e-46b4-ad97-3c3a6891952e;Politeknik Negeri Kupang;PNK;Kota Kupang;Nusa Tenggara Timur;Negeri;;16;961;4100
+cb1b16ad-607c-4207-8be6-8d43a56a388e;Politeknik Negeri Lampung;POLINELA;Kota Bandar Lampung;Lampung;Negeri;;34;1672;3954
+df9ec955-1b80-4ecd-a1a1-e3bec9c0fef0;Politeknik Negeri Lhokseumawe;PNL;Kota Lhokseumawe;Aceh;Negeri;;26;788;3011
+d3bf642d-2b82-48ca-bfb4-faacb3da5044;Politeknik Negeri Madura;POLTERA;Kab. Sampang;Jawa Timur;Negeri;;7;204;517
+3557957e-bf27-42aa-8106-a00c07e55467;Politeknik Negeri Malang;POLINEMA;Kota Malang;Jawa Timur;Negeri;;40;1835;21051
+af180ab8-0068-4063-97bf-9c1fb07470ee;Politeknik Negeri Manado;POLIMDO;Kota Manado;Sulawesi Utara;Negeri;;20;953;1241
+39726112-19fb-47ef-a5ea-dff23b063729;Politeknik Negeri Medan;POLMED;Kota Medan;Sumatera Utara;Negeri;;26;1325;20556
+6ac66cf7-5538-49ae-9324-af16290a2134;Politeknik Negeri Nunukan;PNN;Kab. Nunukan;Kalimantan Utara;Negeri;;4;79;44
+abf42bca-8cf0-4f18-8feb-207f7c547f56;Politeknik Negeri Nusa Utara;POLINUSTAR;Kab. Kep. Sangihe;Sulawesi Utara;Negeri;;5;88;20
+29d985e3-2ec3-46ee-8665-72db0b290fd7;Politeknik Negeri Padang;PNP;Kota Padang;Sumatera Barat;Negeri;;33;1008;15447
+67978baa-7bfe-4b30-98f8-614851a92679;Politeknik Negeri Samarinda;POLNES;Kota Samarinda;Kalimantan Timur;Negeri;;26;866;6400
+71703705-d922-4d47-8a43-2fe75d145ff8;Politeknik Negeri Sambas;POLTESA;Kab. Sambas;Kalimantan Barat;Negeri;;11;418;798
+3354759d-8262-4b09-b3f0-afada7e817c0;Politeknik Negeri Semarang;POLINES;Kota Semarang;Jawa Tengah;Negeri;;26;1280;19103
+e3ae1fff-bb3b-49b5-a71b-5a01c00522fc;Politeknik Negeri Sriwijaya;POLSRI;Kota Palembang;Sumatera Selatan;Negeri;;41;1639;15399
+11fbcebd-3ec2-4fb2-ab68-39141a156286;Politeknik Negeri Tanah Laut;POLITALA;Kab. Tanah Laut;Kalimantan Selatan;Negeri;;10;434;370
+c231cf5c-1351-409f-82e7-ab8e9d2b5bf1;Politeknik Negeri Ujung Pandang;PNUP;Kota Makassar;Sulawesi Selatan;Negeri;;34;1010;10128
+250aadbe-7342-4eaa-9ac5-b3abab0d5790;Politeknik Perikanan Negeri Tual;POLIKANT;Kab. Maluku Tenggara;Maluku;Negeri;;10;192;15
+615fa45e-2155-4f7d-86b3-7ddc17118797;Politeknik Pertanian Negeri Kupang;POLITANI KUPANG;Kota Kupang;Nusa Tenggara Timur;Negeri;;13;432;412
+f1770051-9946-4e8b-a169-7982fc3e9be0;Politeknik Pertanian Negeri Pangkajene Kepulauan;POLTANI PANGKEP;Kab. Pangkajene Kep.;Sulawesi Selatan;Negeri;;16;307;212
+f27e4d45-be75-4040-baf3-f8e3565958b7;Politeknik Pertanian Negeri Payakumbuh;PPNP;Kab. Lima Puluh Kota;Sumatera Barat;Negeri;;14;436;1172
+c456c1f9-2057-42e3-a773-1f5009761168;Politeknik Pertanian Negeri Samarinda;POLITANI SAMARINDA;Kota Samarinda;Kalimantan Timur;Negeri;;14;310;305
+c0ab1bd5-dc86-427e-988b-db4f93dcd6da;UIN Alauddin;UINAM;Kab. Gowa;Sulawesi Selatan;Negeri;;17;900;2460
+559ea15c-4a3c-4d16-ac1a-9fbf2bca8439;UIN Ar-Raniry;UIN AR-RANIRY;Kota Banda Aceh;Aceh;Negeri;;16;844;931
+20da18bd-bd6c-4dae-a8b6-41a250b90efb;UIN Datokarama Palu;UIN DATOKARAMA;Kota Palu;Sulawesi Tengah;Negeri;;3;98;74
+f9d4b5bf-a115-4644-b14a-dc818bef6ebf;UIN Jakarta;UINJKT;Kota Tangerang Selatan;Banten;Negeri;;26;2246;13773
+e9e7f670-2908-45db-9329-a085a29fa5be;UIN Malang;UINMA;Kota Malang;Jawa Timur;Negeri;;18;1924;4422
+08ebcbab-3307-4a61-93b1-9c58222723ea;Institut Teknologi Bandung;ITB;Kota Bandung;Jawa Barat;Negeri;;24;1728;27338
+1fcf9c57-0d55-4d2a-a175-b3afc85f120b;UIN K.H. Abdurrahman Wahid Pekalongan;UIN GUSDUR;Kota Pekalongan;Jawa Tengah;Negeri;;0;0;0
+669ff1ed-685f-41c9-b8c1-ade4e8849183;UIN Mahmud Yunus Batusangkar;UIN MY;Kab. Tanah Datar;Sumatera Barat;Negeri;;3;148;26
+bbfe43af-b36c-47d8-b0bb-1272a7ce2446;Universitas Timor;UNIMOR;Kab. Timor Tengah Utara;Nusa Tenggara Timur;Negeri;;16;1080;1220
+83d6f258-6a39-4d2a-bfed-04673a6e1de8;Universitas Trunojoyo Madura;UTM;Kab. Bangkalan;Jawa Timur;Negeri;;28;2400;5794
+174bae91-8be2-4fd6-b2a1-79e3016b1e6e;Universitas Udayana;UNUD;Kab. Badung;Bali;Negeri;;53;3031;22968
+9cbc7625-f33e-4f87-9f1b-5cbb5a94c2db;UPN Veteran Jakarta;UPNVJ;Kota Jakarta Selatan;DKI Jakarta;Negeri;;28;2287;47205
+e2ce767f-61c9-428f-8deb-650a7f480887;UPN Veteran Jawa Timur;UPNVJT;Kota Surabaya;Jawa Timur;Negeri;;29;2630;20341
+b51661ec-9754-4665-b874-fb6e9bebf037;UPN Veteran Yogyakarta;UPNVY;Kab. Sleman;D.I. Yogyakarta;Negeri;;22;3030;30166
+db74bfba-b2a9-4a25-879d-6038f33a23f8;Politeknik Manufaktur Negeri Bangka Belitung;POLMANBABEL;Kab. Bangka;Bangka Belitung;Negeri;;9;228;679
+4e54de99-b1ab-44e0-9bf6-b4c19549568c;Politeknik Negeri Madiun;PNM;Kota Madiun;Jawa Timur;Negeri;;15;576;3554
+66b26212-b2aa-43ec-9504-1027c57cc27f;Politeknik Negeri Media Kreatif;POLIMEDIA;Kota Jakarta Selatan;DKI Jakarta;Negeri;;23;953;4709
+ad2a8c7c-9f1a-4e7b-bf3a-1f36c3f8d9fd;Politeknik Negeri Pontianak;POLNEP;Kota Pontianak;Kalimantan Barat;Negeri;;34;1432;6050
+e79328e4-9d8c-4e53-a881-84ed7a91d1b3;Politeknik Negeri Subang;POLSUB;Kab. Subang;Jawa Barat;Negeri;;7;233;1134
+930d3875-9092-4801-8e8d-3e0c8d0bd9e6;Politeknik Perkapalan Negeri Surabaya;PPNS;Kota Surabaya;Jawa Timur;Negeri;;16;828;5863
+df5a85c7-65fb-4152-88a7-71c47a234ecf;UIN Antasari Banjarmasin;UIN ANTASARI;Kota Banjarmasin;Kalimantan Selatan;Negeri;;3;117;73
+a07b9e3a-9c16-4c94-9cca-95dee7e9790e;Institut Pertanian Bogor;IPB;Kab. Bogor;Jawa Barat;Negeri;;65;2420;57590
+c4fe975d-e026-47cb-8dca-b224680c1d5d;Institut Teknologi Kalimantan;ITK;Kota Balikpapan;Kalimantan Timur;Negeri;;22;1171;3636
+dad3070f-b436-4dd9-bd12-230e3f638b35;ISI Padang Panjang;ISI PP;Kota Padang Panjang;Sumatera Barat;Negeri;;22;560;1105
+1a6c7a87-b1a0-4145-a377-e274b2bbae3e;Universitas Airlangga;UNAIR;Kota Surabaya;Jawa Timur;Negeri;;63;3147;70641
+4706f1fb-696c-45b3-ad03-7fac35a9cfc6;Universitas Andalas;UNAND;Kota Padang;Sumatera Barat;Negeri;;57;3152;38523
+72e97d7c-5b37-479c-a668-d5f50541d673;Universitas Bengkulu;UNIB;Kota Bengkulu;Bengkulu;Negeri;;50;2651;17347
+0b64bdc0-59da-4222-a6cd-bc470661bcba;Universitas Gadjah Mada;UGM;Kab. Sleman;D.I. Yogyakarta;Negeri;;93;2783;91926
+933ac191-ebf8-409d-a85a-be15a6f281ea;Universitas Jember;UNEJ;Kab. Jember;Jawa Timur;Negeri;;72;4000;32828
+b5d71883-bb82-4e22-9cca-f009ba857ccd;Universitas Lambung Mangkurat;ULM;Kota Banjarmasin;Kalimantan Selatan;Negeri;;69;3550;19528
+2b2eed8b-7d8b-49a5-a296-58208f181386;Universitas Musamus Merauke;UNMUS;Kab. Merauke;Papua Selatan;Negeri;;31;1234;305
+39e0e1e1-a524-42d3-8483-3e31c10fd1b3;Universitas Negeri Malang;UM;Kota Malang;Jawa Timur;Negeri;;80;4196;42090
+384db87d-8faf-4d35-a14e-5ac743ecb313;Universitas Negeri Surabaya;UNESA;Kota Surabaya;Jawa Timur;Negeri;;110;8565;55706
+172aee3a-927f-4438-a787-e82dc9d1cd5d;Universitas Palangkaraya;UPR;Kota Palangka Raya;Kalimantan Tengah;Negeri;;44;1626;5391
+9e76d481-3afb-4e8b-baf9-b0ec31f181e3;Universitas Sam Ratulangi;UNSRAT;Kota Manado;Sulawesi Utara;Negeri;;49;3036;7882
+154e3090-0184-4e3c-8cdf-27bc05c136ca;Universitas Sriwijaya;UNSRI;Kab. Ogan Ilir;Sumatera Selatan;Negeri;;61;3982;40788
+4a8d76b7-f485-4988-b4d5-ede489a5a0af;Universitas Sultan Ageng Tirtayasa;UNTIRTA;Kab. Serang;Banten;Negeri;;48;5330;21851
+baaefd0e-d04c-4fbb-b399-855bccfc1005;Universitas Sumatera Utara;USU;Kota Medan;Sumatera Utara;Negeri;;62;2914;60433
+1ace4d5a-f003-4fae-992d-cf8bfde67e94;Universitas Syiah Kuala;USK;Kota Banda Aceh;Aceh;Negeri;;76;3538;32863
+aa47008e-0763-44b8-80c1-470715294de6;Universitas Tadulako;UNTAD;Kota Palu;Sulawesi Tengah;Negeri;;63;4287;14580
+9870e4e5-cc02-4101-820d-1281d6827a40;Universitas Tanjungpura;UNTAN;Kota Pontianak;Kalimantan Barat;Negeri;;69;3798;20616
+4266cf90-36ff-4e17-9096-374d844664e3;Universitas Teuku Umar;UTU;Kab. Aceh Barat;Aceh;Negeri;;24;1380;2198
+9b33288b-ee43-4c2a-8a3a-af75caf40ed2;Universitas Tidar;UNTIDAR;Kota Magelang;Jawa Tengah;Negeri;;28;2105;12674
+481a61ab-2107-47e6-ba04-e3b3ad7967df;Politeknik Maritim Negeri Indonesia;POLIMARIN;Kota Semarang;Jawa Tengah;Negeri;;7;251;0
+62c7e43d-0682-4b2a-a7f3-8b256bd594dc;Politeknik Negeri Banjarmasin;POLIBAN;Kota Banjarmasin;Kalimantan Selatan;Negeri;;20;927;2757
+1737c2dc-05f5-4368-a47d-659a255e2e63;Politeknik Negeri Indramayu;POLINDRA;Kab. Indramayu;Jawa Barat;Negeri;;9;411;1161
+8a8ac5d8-9d8f-43be-9c28-e6403fec90a3;UIN Raden Intan Lampung;UIN RIL;Kota Bandar Lampung;Lampung;Negeri;;4;276;196
+48e3cf52-9f23-4a38-b271-e39cf186a000;UIN Sultan Thaha Saifuddin Jambi;UIN STS;Kab. Muaro Jambi;Jambi;Negeri;;8;251;138
+6daed48a-d452-4083-ae3b-40cd0e4a6834;UIN Sunan Ampel Surabaya;UINSA;Kota Surabaya;Jawa Timur;Negeri;;22;1751;3885
